@@ -1,0 +1,3 @@
+FROM unbuntu
+RUN echo "hello world" > /tmp/hello.txt
+
